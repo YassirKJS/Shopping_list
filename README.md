@@ -1,0 +1,1 @@
+A quick project involving DOM EVENTS
